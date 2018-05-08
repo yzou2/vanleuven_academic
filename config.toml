@@ -269,7 +269,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "http://glenn.osu.edu/phd-students/van-leuven/"
+  url = "https://andrewvanleuven.github.io/files/cv.pdf"
   weight = 3
 
 [[menu.main]]
