@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Economic Development",
+    "Public Policy",
+    "Regional Science"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Public Policy & Management"
+#  institution = "Ohio State University"
+#  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.A. in Geography & Urban Studies"
+  institution = "Temple University"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "B.S. in Geography"
+  institution = "Brigham Young University"
+  year = 2014
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Andrew J. Van Leuven is a doctoral student at The Ohio State University’s John Glenn College of Public Affairs. He currently works with Dr. Ned Hill on research related to regional economic development and resilience. He has also worked with the Ohio Manufacturing Institute (OMI) on a survey related to the performance of Ohio manufacturing establishments and an assessment of a public venture finance fund. He earned a B.S. in geogrphy with a planning concentration and an M.A. in urban studies.
