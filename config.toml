@@ -268,8 +268,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "CV"
+  url = "#cv"
   weight = 3
 
 [[menu.main]]
