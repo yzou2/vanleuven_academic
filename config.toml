@@ -243,10 +243,10 @@ enableGitInfo = false
 #    icon_pack = "ai"
 #    link = ""
 
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fa"
-#    link = ""
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "andrewvanleuven"
 
 
 # Navigation Links
