@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = ""
+subtitle = "These are the various 'pipelines' of research that I am currently managing."
 
 # Order that this section will appear in.
 weight = 50
@@ -31,7 +31,7 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#  
+#
 # [[filter]]
 #   name = "Deep Learning"
 #   tag = ".deep-learning"
@@ -41,4 +41,3 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-

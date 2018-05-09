@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Current & Past Research"
-subtitle = ""
+title = "Current Research"
+subtitle = "Published: 0 </br> Under Review: 2 </br> In Progress: 3"# </br> Incubating ideas: 3"
 
 # Order that this section will appear in.
 weight = 20
@@ -19,7 +19,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -33,5 +33,5 @@ list_format = 3
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++

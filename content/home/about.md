@@ -11,15 +11,17 @@ weight = 5
 [interests]
   interests = [
     "Economic Development",
-    "Public Policy",
-    "Regional Science"
+    "Urban Policy Analysis",
+    "Local Public Management",
+    "Regional Science",
+    "Data Science & Programming"
   ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
 #  course = "PhD in Public Policy & Management"
 #  institution = "Ohio State University"
-#  year = 2020
+#  year = "in progress"
 
 [[education.courses]]
   course = "M.A. in Geography & Urban Studies"
