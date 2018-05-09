@@ -246,7 +246,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "andrewvanleuven"
+    link = "https://github.com/andrewvanleuven"
 
 
 # Navigation Links
