@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Current Research"
-subtitle = "Published: 0 </br> Under Review: 2 </br> In Progress: 3"# </br> Incubating ideas: 3"
+subtitle = "Published: 0 </br> Under Review: 0 </br> In Progress: 5"# </br> Incubating ideas: 3"
 
 # Order that this section will appear in.
 weight = 20

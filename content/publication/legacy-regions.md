@@ -18,7 +18,7 @@ authors = ["Andrew J. Van Leuven", "Edward W. Hill"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "*In Progress*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,7 +29,7 @@ abstract_short = "In this paper, we interrogate the construct of “legacy citie
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

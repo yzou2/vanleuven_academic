@@ -4,7 +4,7 @@ date = 2018-05-08T18:43:40-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Andrew J. Van Leuven**", "Edward W. Hill", "Hal Wolman"]
+authors = ["Edward W. Hill", "**Andrew J. Van Leuven**", "Hal Wolman"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["**Andrew J. Van Leuven**", "Edward W. Hill", "Hal Wolman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "*In Progress*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,7 +29,7 @@ abstract_short = "This study explores the causal drivers of regional economic de
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
