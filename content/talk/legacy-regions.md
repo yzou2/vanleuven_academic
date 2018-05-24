@@ -34,7 +34,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://andrewvanleuven.github.io/papers/uaa_slides.pdf"
+url_slides = "https://andrewvanleuven.github.io/slides/uaa_slides.pdf"
 url_video = ""
 url_code = ""
 
