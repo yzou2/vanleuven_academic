@@ -42,7 +42,7 @@ projects = ["regions.md"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://andrewvanleuven.github.io/papers/legacy_regions.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
