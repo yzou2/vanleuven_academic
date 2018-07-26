@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-Andrew J. Van Leuven is a doctoral student at The Ohio State University’s John Glenn College of Public Affairs. He currently works with Dr. Ned Hill on research related to regional economic development and resilience. He has also worked with the Ohio Manufacturing Institute (OMI) on a survey related to the performance of Ohio manufacturing establishments and an assessment of a public venture finance fund. He earned a B.S. in geogrphy with a planning concentration and an M.A. in urban studies.
+Andrew J. Van Leuven is a Ph.D. candidate at The Ohio State University’s John Glenn College of Public Affairs. He currently works with Dr. Ned Hill on research related to regional economic development and resilience. He has also worked with the Ohio Manufacturing Institute (OMI) on a survey related to the performance of Ohio manufacturing establishments and an assessment of a public venture finance fund. He earned a B.S. in geogrphy with a planning concentration and an M.A. in urban studies.
