@@ -26,11 +26,11 @@ Recently, a friend shared with me a tweet by [an economist](https://twitter.com/
 
 It is one thing to be incredibly passionate and dedicated to a single topic or idea. That is a key ingredient for successfully defending a dissertation and becoming a true 'master' of that one slice of knowledge. However, in my [limited] experience, too much emphasis on a single topic often leads to *burnout*. That is why I have tried to stay engaged in multiple streams of research that focus on different topic areas and use different approaches.
 
-Here is my version[^1] of the "research timeline" I've followed in my time thus far as a PhD student:
+Here is my version of the "research timeline" I've followed in my time thus far as a PhD student:
 
-{{< figure src="/img/viz.png" >}}
+[![Timeline of my Research Streams](/img/viz.png)](https://andrewvanleuven.github.io/files/timeline/viz.png)
 
-It's nothing special...probably something I should have waited to publish until I had at least one accepted article. However, it was a fun exercise[^2] in data visualization and a good reminder of the progress I have made in two short years. The cool part (for me, at least) is that, even though there are only four articles there are still **three** quite separate "streams" of interest:
+It's nothing special...probably something I should have waited to publish until I had at least one accepted article. However, it was a fun exercise[^1] in data visualization and a good reminder of the progress I *have* made in two short years. The cool part (for me, at least) is that, even though there are only four articles there are still **three** quite separate "streams" of interest:
 
 * regional economics,
 * public management, and
@@ -38,5 +38,4 @@ It's nothing special...probably something I should have waited to publish until 
 
 Obviously, as time goes by I will not be able to maintain such a small paper-to-topic-area ratio. However, I do plan to continue expanding my horizons as I develop a long-term pipeline for research both 1) because I want to avoid becoming burnt-out with a single topic or idea and 2) because I believe it is healthy to continually look for new and exciting sources of research questions and answers.
 
-[^1]: Click [here](https://andrewvanleuven.github.io/files/timeline/viz.png) for a larger version of the timeline.
-[^2]: [Here](https://github.com/andrewvanleuven/andrewvanleuven.github.io/blob/master/files/timeline/viz.R) is the R code I used. I still have a lot to learn, but the 'plotly' package was delightful to use, and seems almost limitless in what it can do.
+[^1]: [Here](https://github.com/andrewvanleuven/andrewvanleuven.github.io/blob/master/files/timeline/viz.R) is the R code I used. I still have a lot to learn, but the 'plotly' package was delightful to use, and seems almost limitless in what it can do.
