@@ -28,7 +28,7 @@ It is one thing to be incredibly passionate and dedicated to a single topic or i
 
 Here is my version of the "research timeline" I've followed in my time thus far as a PhD student:
 
-[![Timeline of my Research Streams](/img/viz.png)](https://andrewvanleuven.github.io/files/timeline/viz.png)
+[![Timeline of my Research Streams](/img/plot.png)](https://andrewvanleuven.github.io/files/timeline/viz.png)
 
 It's nothing special...probably something I should have waited to publish until I had at least one accepted article. However, it was a fun exercise[^1] in data visualization and a good reminder of the progress I *have* made in two short years. The cool part (for me, at least) is that, even though there are only four articles there are still **three** quite separate "streams" of interest:
 
