@@ -30,4 +30,4 @@ caption = ""
 
 +++
 
-[Legacy Regions Paper](/publications/legacy-regions.md)
+[Legacy Regions Paper](publication/legacy-regions/)
