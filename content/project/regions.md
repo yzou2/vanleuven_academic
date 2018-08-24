@@ -29,3 +29,5 @@ image = ""
 caption = ""
 
 +++
+
+[Legacy Regions Paper](/publications/legacy-regions.md)
