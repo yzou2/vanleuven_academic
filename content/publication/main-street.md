@@ -1,5 +1,5 @@
 +++
-title = "Place-Based Efforts in Small Town America: The Impact of the Main Street Program"
+title = "Place-Based Policy in Small Town America: The Impact of the Main Street Program"
 date = 2018-02-08T20:59:49-04:00
 draft = false
 

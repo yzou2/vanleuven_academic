@@ -30,4 +30,10 @@ caption = ""
 
 +++
 
-[Legacy Regions Paper](publication/legacy-regions/)
+**Papers**
+
+* **[Where are the Legacy Cities? Framing Urban Growth and Decline within the Regional Economy](https://andrewvanleuven.com/publication/legacy-regions/)** (current stage: *preparing for submission*)
+
+* **[Resilience in the Face of Chronic Distress: U.S. Metropolitan Areas After the Great Recession](https://andrewvanleuven.com/publication/regional-resilience/)** (current stage: *preparing for submission*)
+
+* **[Hanging by a Thread: The Post-Recession Resilience of Legacy Regions](https://andrewvanleuven.com/publication/legacy-resilience/)** (current stage: *data analysis*)

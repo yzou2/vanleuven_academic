@@ -1,5 +1,5 @@
 +++
-title = "The Economic Vitality of Main Street America"
+title = "Local Economic Development Policy"
 date = 2018-05-08T18:44:08-04:00
 draft = false
 
@@ -28,4 +28,13 @@ highlight = true
 image = ""
 caption = ""
 
+
+#* **The Impact of Walkable Retail Districts on Residential and Commercial Real Estate Values** (*in proposal process*)
+#* **The Importance of Institutional Position on Effective Policy Implementation** (*in proposal process*)
+
+
 +++
+
+**Papers**
+
+* **[Place-Based Policy in Small Town America: The Impact of the Main Street Program](https://andrewvanleuven.com/publication/main-street/)** (current stage: *data collection*)

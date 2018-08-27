@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = "These are the various 'pipelines' of research that I am currently managing."
 
 # Order that this section will appear in.
-weight = 50
+weight = 6
 
 # Content.
 # Display content from the following folder.

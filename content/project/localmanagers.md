@@ -28,4 +28,11 @@ highlight = true
 image = ""
 caption = ""
 
+#This segment of my research focuses on the career paths of unelected local government officials and adminstrator.
+#
+#I am working with two fellow students---Jin Hong Kim and Daniel Baker---and we are currently designing a survey instrument that will allow us to measure which skills were most developed over the career timeline of local government practicioners. More specifically, we are interested in identifying the *mechanisms* that contribute to
 +++
+
+**Papers**
+
+* **[Charting the Mechanisms of Skill Growth in Local Government Practitioners](https://andrewvanleuven.com/publication/localmanagers/)** (current stage: *survey instrument development*)
