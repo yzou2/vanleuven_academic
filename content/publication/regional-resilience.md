@@ -1,5 +1,5 @@
 +++
-title = "Resilience in the Face of Chronic Distress: U.S. Metropolitan Areas After the Great Recession"
+title = "Regional Economic Resilience After the Great Recession: The Economic Performance of U.S. Metropolitan Statistical Areas"
 date = 2018-05-08T18:43:40-04:00
 draft = false
 
@@ -47,7 +47,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://andrewvanleuven.github.io/slides/atlfrb_upjohn_slides.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
