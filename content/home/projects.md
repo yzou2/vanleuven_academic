@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = "These are the various topic areas that I am currently research."
+subtitle = "These are the various topic areas that I am currently researching."
 
 # Order that this section will appear in.
 weight = 6
